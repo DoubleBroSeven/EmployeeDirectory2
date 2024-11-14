@@ -9,6 +9,7 @@ const employees = [
   { id: 8, name: "Constantina Connue" },
   { id: 9, name: "Verile Bondesen" },
   { id: 10, name: "Gwen Grollmann" },
-];
+]
+
 
 module.exports = employees;
